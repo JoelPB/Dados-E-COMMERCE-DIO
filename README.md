@@ -23,3 +23,6 @@
 
 * Colunas: idEntrega, StatusEntrega, CodigoRastreio, Pedido_idPedido (FK), Pedido_Cliente_idCliente1 (FK), Pedido_Pagamento_idPagamento (FK)
   
+---
+
+Feito no [MySQL Workbench](https://www.mysql.com/products/workbench/)
