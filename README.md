@@ -2,7 +2,7 @@
 
 ---
 
-## Foi refinado o modelo apresentado acrescentando os seguintes tabelas:
+## Foi refinado o modelo apresentado acrescentando as seguintes tabelas:
 1 Cliente-PJ
 * Armazena dados de clientes pessoa jurídica (PJ), relacionados à tabela Cliente.
 
